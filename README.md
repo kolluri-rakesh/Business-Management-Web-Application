@@ -30,7 +30,7 @@
 
 ## Installation :
 
-1. Clone the repository : $ git clone https://github.com/SnehalAShinde/Spring_Boot_Project.git <br>
+1. Clone the repository : $ git clone https://github.com/kolluri-rakesh/Business-Management-Web-Application.git <br>
            OR
    Download the zip
 
