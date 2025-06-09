@@ -2,7 +2,7 @@
 #  SS-Beauty-Products Business Management Web Application : <br>
 
 
-<img width="960" alt="Home Page" src="https://github.com/kolluri-rakesh/Business-Management-Web-Application/assets/126142130/3e29d81e-ac4d-4e4c-98fe-9aaf600867a3">
+<img width="960" alt="Home Page" src="https://github.com/SnehalAShinde/Spring_Boot_Project/assets/126142130/3e29d81e-ac4d-4e4c-98fe-9aaf600867a3">
 
 
 ## Project Desc : Business Management Web Application 
@@ -30,7 +30,7 @@
 
 ## Installation :
 
-1. Clone the repository : $ git clone https://github.com/kolluri-rakesh/Business-Management-Web-Application.git <br>
+1. Clone the repository : $ git clone https://github.com/SnehalAShinde/Spring_Boot_Project.git <br>
            OR
    Download the zip
 
@@ -66,7 +66,7 @@ spring.jpa.hibernate.ddl-auto=update <br>
 ## Preview :
 
 #### Products 
-<img width="960" alt="Product Page" src="https://github.com/kolluri-rakesh/Business-Management-Web-Application/assets/126142130/afbd9286-8ca1-4708-9586-b6fed113cac3">
+<img width="960" alt="Product Page" src="https://github.com/SnehalAShinde/Spring_Boot_Project/assets/126142130/afbd9286-8ca1-4708-9586-b6fed113cac3">
 
 
 
@@ -84,5 +84,3 @@ spring.jpa.hibernate.ddl-auto=update <br>
 
 
 <img width="960" alt="Admin Page" src="https://github.com/SnehalAShinde/Spring_Boot_Project/assets/126142130/54684ea2-e0f0-456f-9c35-d98b0a30e3e1">
-
-
